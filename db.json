@@ -1,16 +1,16 @@
 {
     "lista": [
-      { "id": "arroz", "categoria-id": "basico", "nome": "Arroz", "categoria": "Básico" },
-      { "id": "feijao", "categoria-id": "basico", "nome": "Feijão", "categoria": "Básico" },
-      { "id": "oleo", "categoria-id": "basico", "nome": "Óleo", "categoria": "Básico" },
-      { "id": "cafe", "categoria-id": "basico", "nome": "Café", "categoria": "Básico" },
-      { "id": "alho", "categoria-id": "feira", "nome": "Alho", "categoria": "Feira" },
-      { "id": "cebola", "categoria-id": "feira", "nome": "Cebola", "categoria": "Feira" },
-      { "id": "batata", "categoria-id": "feira", "nome": "Batata", "categoria": "Feira" },
-      { "id": "tomate", "categoria-id": "feira", "nome": "Tomate", "categoria": "Feira" },
-      { "id": "iogurte", "categoria-id": "outros", "nome": "Iogurte", "categoria": "Outros" },
-      { "id": "queijo", "categoria-id": "outros", "nome": "Queijo", "categoria": "Outros" },
-      { "id": "waffles", "categoria-id": "outros", "nome": "Waffles", "categoria": "Outros" },
-      { "id": "bacon", "categoria-id": "outros", "nome": "Bacon", "categoria": "Outros" }
+      { "id": "arroz", "categoria_id": "basico", "nome": "Arroz", "categoria": "Básico" },
+      { "id": "feijao", "categoria_id": "basico", "nome": "Feijão", "categoria": "Básico" },
+      { "id": "oleo", "categoria_id": "basico", "nome": "Óleo", "categoria": "Básico" },
+      { "id": "cafe", "categoria_id": "basico", "nome": "Café", "categoria": "Básico" },
+      { "id": "alho", "categoria_id": "feira", "nome": "Alho", "categoria": "Feira" },
+      { "id": "cebola", "categoria_id": "feira", "nome": "Cebola", "categoria": "Feira" },
+      { "id": "batata", "categoria_id": "feira", "nome": "Batata", "categoria": "Feira" },
+      { "id": "tomate", "categoria_id": "feira", "nome": "Tomate", "categoria": "Feira" },
+      { "id": "iogurte", "categoria_id": "outros", "nome": "Iogurte", "categoria": "Outros" },
+      { "id": "queijo", "categoria_id": "outros", "nome": "Queijo", "categoria": "Outros" },
+      { "id": "waffles", "categoria_id": "outros", "nome": "Waffles", "categoria": "Outros" },
+      { "id": "bacon", "categoria_id": "outros", "nome": "Bacon", "categoria": "Outros" }
   ]
 }
