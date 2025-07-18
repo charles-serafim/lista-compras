@@ -1,16 +1,16 @@
 {
     "lista": [
-      { "id": 1, "nome": "arroz", "categoria": "básico" },
-      { "id": 2, "nome": "feijão", "categoria": "básico" },
-      { "id": 3, "nome": "óleo", "categoria": "básico" },
-      { "id": 4, "nome": "café", "categoria": "básico" },
-      { "id": 5, "nome": "alho", "categoria": "feira" },
-      { "id": 6, "nome": "cebola", "categoria": "feira" },
-      { "id": 7, "nome": "batata", "categoria": "feira" },
-      { "id": 8, "nome": "tomate", "categoria": "feira" },
-      { "id": 9, "nome": "iogurte", "categoria": "outros" },
-      { "id": 10, "nome": "queijo", "categoria": "outros" },
-      { "id": 11, "nome": "waffles", "categoria": "outros" },
-      { "id": 12, "nome": "bacon", "categoria": "outros" }
+      { "id": "arroz", "categoria-id": "basico", "nome": "Arroz", "categoria": "Básico" },
+      { "id": "feijao", "categoria-id": "basico", "nome": "Feijão", "categoria": "Básico" },
+      { "id": "oleo", "categoria-id": "basico", "nome": "Óleo", "categoria": "Básico" },
+      { "id": "cafe", "categoria-id": "basico", "nome": "Café", "categoria": "Básico" },
+      { "id": "alho", "categoria-id": "feira", "nome": "Alho", "categoria": "Feira" },
+      { "id": "cebola", "categoria-id": "feira", "nome": "Cebola", "categoria": "Feira" },
+      { "id": "batata", "categoria-id": "feira", "nome": "Batata", "categoria": "Feira" },
+      { "id": "tomate", "categoria-id": "feira", "nome": "Tomate", "categoria": "Feira" },
+      { "id": "iogurte", "categoria-id": "outros", "nome": "Iogurte", "categoria": "Outros" },
+      { "id": "queijo", "categoria-id": "outros", "nome": "Queijo", "categoria": "Outros" },
+      { "id": "waffles", "categoria-id": "outros", "nome": "Waffles", "categoria": "Outros" },
+      { "id": "bacon", "categoria-id": "outros", "nome": "Bacon", "categoria": "Outros" }
   ]
 }
