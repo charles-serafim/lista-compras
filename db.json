@@ -11,6 +11,6 @@
       { "id": 9, "nome": "iogurte", "categoria": "outros" },
       { "id": 10, "nome": "queijo", "categoria": "outros" },
       { "id": 11, "nome": "waffles", "categoria": "outros" },
-      { "id": 12, "nome": "bacon", "categoria": "outros" },
+      { "id": 12, "nome": "bacon", "categoria": "outros" }
   ]
 }
