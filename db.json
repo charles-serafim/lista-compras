@@ -1,16 +1,16 @@
 {
     "lista": [
-      { "nome": "arroz", "categoria": "básico" },
-      { "nome": "feijão", "categoria": "básico" },
-      { "nome": "óleo", "categoria": "básico" },
-      { "nome": "café", "categoria": "básico" },
-      { "nome": "alho", "categoria": "feira" },
-      { "nome": "cebola", "categoria": "feira" },
-      { "nome": "batata", "categoria": "feira" },
-      { "nome": "tomate", "categoria": "feira" },
-      { "nome": "iogurte", "categoria": "outros" },
-      { "nome": "queijo", "categoria": "outros" },
-      { "nome": "waffles", "categoria": "outros" },
-      { "nome": "bacon", "categoria": "outros" },
+      { "id": 1, "nome": "arroz", "categoria": "básico" },
+      { "id": 2, "nome": "feijão", "categoria": "básico" },
+      { "id": 3, "nome": "óleo", "categoria": "básico" },
+      { "id": 4, "nome": "café", "categoria": "básico" },
+      { "id": 5, "nome": "alho", "categoria": "feira" },
+      { "id": 6, "nome": "cebola", "categoria": "feira" },
+      { "id": 7, "nome": "batata", "categoria": "feira" },
+      { "id": 8, "nome": "tomate", "categoria": "feira" },
+      { "id": 9, "nome": "iogurte", "categoria": "outros" },
+      { "id": 10, "nome": "queijo", "categoria": "outros" },
+      { "id": 11, "nome": "waffles", "categoria": "outros" },
+      { "id": 12, "nome": "bacon", "categoria": "outros" },
   ]
 }
