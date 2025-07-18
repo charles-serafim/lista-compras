@@ -1,16 +1,16 @@
 {
-    lista: [
-      { nome: "arroz", categoria: "básico" },
-      { nome: "feijão", categoria: "básico" },
-      { nome: "óleo", categoria: "básico" },
-      { nome: "café", categoria: "básico" },
-      { nome: "alho", categoria: "feira" },
-      { nome: "cebola", categoria: "feira" },
-      { nome: "batata", categoria: "feira" },
-      { nome: "tomate", categoria: "feira" },
-      { nome: "iogurte", categoria: "outros" },
-      { nome: "queijo", categoria: "outros" },
-      { nome: "waffles", categoria: "outros" },
-      { nome: "bacon", categoria: "outros" },
+    "lista": [
+      { "nome": "arroz", "categoria": "básico" },
+      { "nome": "feijão", "categoria": "básico" },
+      { "nome": "óleo", "categoria": "básico" },
+      { "nome": "café", "categoria": "básico" },
+      { "nome": "alho", "categoria": "feira" },
+      { "nome": "cebola", "categoria": "feira" },
+      { "nome": "batata", "categoria": "feira" },
+      { "nome": "tomate", "categoria": "feira" },
+      { "nome": "iogurte", "categoria": "outros" },
+      { "nome": "queijo", "categoria": "outros" },
+      { "nome": "waffles", "categoria": "outros" },
+      { "nome": "bacon", "categoria": "outros" },
   ]
 }
